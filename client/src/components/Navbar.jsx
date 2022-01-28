@@ -16,7 +16,7 @@ const Navbar = () => {
       </LogoWrapper>
       <List >
       <ListItem >
-          User Guide
+      <Link className="linkItem" to="/userguide">User Guide</Link>
         </ListItem>      
         <ListItem >
           <Link className="linkItem" to="/register">Register Yourself</Link>
