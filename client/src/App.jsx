@@ -11,7 +11,7 @@ import Home from './pages/Home'
 import Register from './pages/Register';
 
 function App() {
-
+  console.log=()=>{};
   return (
     < >
      
